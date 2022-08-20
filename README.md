@@ -1,4 +1,4 @@
-# YelpCamp
+# Campground
 
 ![Image 1](https://raw.githubusercontent.com/himanshup/yelp-camp/master/screenshots/image1.png)  
 ![Image 2](https://raw.githubusercontent.com/himanshup/yelp-camp/master/screenshots/image2.png)  
@@ -18,10 +18,6 @@ This project was created using Node.js, Express, MongoDB, and Bootstrap. Passpor
 1. Install [mongodb](https://www.mongodb.com/)
 2. Create a cloudinary account to get an API key and secret code
 
-```
-git clone https://github.com/himanshup/yelpcamp.git
-cd yelpcamp
-npm install
 ```
 
 Create a .env file (or just export manually in the terminal) in the root of the project and add the following:  
